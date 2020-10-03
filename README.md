@@ -10,16 +10,5 @@
 Чисто по рофлу могу потратить всё своё драгоценное время на перевод вашего какого-нибудь мода/игры либо же сайта (зависит от желания конечно).
 </p>
 
-</details>
-
-<details>
-  <summary>Steam</summary>
-
-<p align="center">
-  <b>Недавняя активность</b>
-</p>
-
-|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/1239520/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/1239520)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/753/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/753)|[<img src="https://steamcdn-a.akamaihd.net/steam/apps/945360/header.jpg" style="max-height: 100px;">](https://store.steampowered.com/app/945360)|
-|-|-|-|
-|<p align="center">[Madden NFL 21](https://store.steampowered.com/app/1239520)</p>|<p align="center">[???](https://store.steampowered.com/app/753)</p>|<p align="center">[Among Us](https://store.steampowered.com/app/945360)</p>|
-</details>
+## Github Stats
+<img align="left" alt="Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Blueberryy&show_icons=true&hide_border=true" />
