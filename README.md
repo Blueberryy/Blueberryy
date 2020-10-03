@@ -10,5 +10,7 @@
 Чисто по рофлу могу потратить всё своё драгоценное время на перевод вашего какого-нибудь мода/игры либо же сайта (зависит от желания конечно).
 </p>
 
+> По деловым вопросам - **igory.ygr200@gmail.com**
+
 ## Github Stats
 <img align="left" alt="Blueberryy's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Blueberryy&show_icons=true&hide_border=true" />
