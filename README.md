@@ -1,6 +1,6 @@
 > For business - **igory.ygr200@gmail.com**
 
 ## Github Stats
-![Blueberryy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blueberryy&show_icons=true&theme=synthwave)
+<img src="https://github-stats-glaukiol1.vercel.app/api/?username=Blueberryy" width=500 height=300 />
 
 ![](https://komarev.com/ghpvc/?username=Blueberryy)
