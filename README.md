@@ -1,6 +1,6 @@
 > For business - **igory.ygr200@gmail.com**
 
 ## Github Stats
-<img src="https://github-stats-glaukiol1.vercel.app/api/?username=Blueberryy" width=500 height=300 />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Blueberryy)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=Blueberryy)
